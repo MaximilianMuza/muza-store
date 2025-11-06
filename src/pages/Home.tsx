@@ -1,3 +1,17 @@
+import Welcome from "../components/Home/Welcome"
+import What from "../components/Home/What"
+import Highlights from "../components/Home/Highlights"
+import Where from "../components/Home/Where"
+import Contact from "../components/Home/Contact"
+
 export default function Home() {
-  return <h1>Welcome to the Home Page!</h1>;
+  return (
+    <div className="page">
+      <Welcome />
+      <What />
+      <Highlights />
+      <Where />
+      <Contact />
+    </div>
+  )
 }
