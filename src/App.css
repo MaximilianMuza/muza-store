@@ -1,13 +1,44 @@
 /* App.css */
+@font-face {
+  font-family: 'Aligra';
+  src: url('../public/fonts/Aligra.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BauhausRegular';
+  src: url('../public/fonts/BauhausRegular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Broske';
+  src: url('../public/fonts/Broske-2vRAW.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Daisya';
+  src: url('../public/fonts/Daisya.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SunrayAuraRegular';
+  src: url('../public/fonts/SunrayAuraRegular-yYonm.otf') format('opentype');
+}
+
+:root {
+  --font-heading: 'BauhausRegular', serif;
+  --font-body: 'BauhausRegular', serif;
+}
+
 body {
-  font-family: 'Jomolhari', serif;
+  font-family: var(--font-body);
   margin: 0;
   padding: 0;
   line-height: 1.6;
+  padding: 50px;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Jomolhari', serif;
+  font-family: var(--font-heading);
 }
 
 .section {
