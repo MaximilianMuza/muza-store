@@ -1,0 +1,12 @@
+.image-box-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+
+.image {
+    width: 350px;
+    height: 500px;
+    border-radius: 12px;
+}

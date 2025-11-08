@@ -1,32 +1,32 @@
 /* App.css */
 @font-face {
   font-family: 'Aligra';
-  src: url('../public/fonts/Aligra.otf') format('opentype');
+  src: url('./assets/fonts/Aligra.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'BauhausRegular';
-  src: url('../public/fonts/BauhausRegular.ttf') format('truetype');
+  src: url('./assets/fonts/BauhausRegular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Broske';
-  src: url('../public/fonts/Broske-2vRAW.otf') format('opentype');
+  src: url('./assets/fonts/Broske-2vRAW.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'Daisya';
-  src: url('../public/fonts/Daisya.otf') format('opentype');
+  src: url('./assets/fonts/Daisya.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'SunrayAuraRegular';
-  src: url('../public/fonts/SunrayAuraRegular-yYonm.otf') format('opentype');
+  src: url('./assets/fonts/SunrayAuraRegular-yYonm.otf') format('opentype');
 }
 
 :root {
-  --font-heading: 'BauhausRegular', serif;
-  --font-body: 'BauhausRegular', serif;
+  --font-heading: 'SunrayAuraRegular', serif;
+  --font-body: 'SunrayAuraRegular', serif;
 }
 
 body {
