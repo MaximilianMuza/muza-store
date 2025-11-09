@@ -27,6 +27,8 @@
 :root {
   --font-heading: 'SunrayAuraRegular', serif;
   --font-body: 'SunrayAuraRegular', serif;
+  --font-heading-color: #203838;
+  --font-body-color: #274444;
 }
 
 body {
@@ -37,8 +39,28 @@ body {
   padding: 50px;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   font-family: var(--font-heading);
+  color: var(--font-heading-color);
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p {
+  font-size: 20px;
+  color: var(--font-body-color);
 }
 
 .section {

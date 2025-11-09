@@ -1,7 +1,7 @@
-import Welcome from "../components/Home/Welcome"
+import Welcome from "../components/Home/Welcome/Welcome"
 import What from "../components/Home/What"
 import Highlights from "../components/Home/Highlights"
-import Where from "../components/Home/Where"
+import Where from "../components/Home/Where/Where"
 import Contact from "../components/Home/Contact"
 
 export default function Home() {
