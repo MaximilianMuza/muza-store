@@ -2,8 +2,14 @@
     font-size: 25px;
 }
 
+.box {
+    max-width: 30%;
+    justify-content: center;
+}
+
 .welcome-image {
-    width: 700px;
-    height: 550px;
+    width: 450px;
+    height: auto;
     background-color: #f8f8f8;
+    border-radius: 6px;
 }
