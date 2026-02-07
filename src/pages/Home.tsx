@@ -2,7 +2,6 @@ import Welcome from "../components/Home/Welcome/Welcome"
 import What from "../components/Home/What"
 import Highlights from "../components/Highlights/Highlights"
 import Where from "../components/Home/Where/Where"
-import Contact from "../components/Home/Contact"
 
 export default function Home() {
   return (

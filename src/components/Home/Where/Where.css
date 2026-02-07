@@ -21,3 +21,11 @@
     height: 350px;
     border-radius: 6px;
 }
+
+.anreise_contents p, .anreise_image p {
+    margin: 0;
+}
+
+.anreise_contents a {
+    color: #515439;
+}

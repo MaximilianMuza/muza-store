@@ -5,8 +5,9 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="vertical-flex">
-        <Link to="/">Home</Link>
-        <Link to="/impressum">Impressum</Link>
+        <Link to="/" reloadDocument >Home</Link>
+        <Link to="/impressum" reloadDocument>Impressum</Link>
+        <Link to="/datenschutz" reloadDocument>Datenschutzerklärung</Link>
       </div>
     </footer>
   );
