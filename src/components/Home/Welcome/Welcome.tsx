@@ -2,7 +2,7 @@ import "./Welcome.css"
 
 export default function Welcome() {
   return (
-    <div className="section horizontal-flex gap-30">
+    <div className="section horizontal-flex gap-30 justify-center">
       <div className="box vertical-flex">
         <h1>Muza-Store</h1>
         <p className="intro">Ladengeschäft für Inneneinrichtung und Dekoration im Industrie und Bauhaus Stil.</p>

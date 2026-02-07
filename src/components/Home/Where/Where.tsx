@@ -4,8 +4,9 @@ export default function Where() {
   return (
     <div className="section max-text-width">
         <h2>Unser Laden im Hessenstein Turm</h2>
-        <p>Unser Laden ist im schönen Hessenstein Turm, nahe Gut Panker und direkt gegenüberliegend dem Forsthaus Hessenstein. 
-          Wir sind direkt unten im Turm und freuen uns immer wieder aufs Neue einen so schönen Ort für den Muza-Store nutzen zu können.
+        <p>Unser Laden ist im schönen Hessenstein Turm, nahe Gut Panker und direkt gegenüberliegend dem Forsthaus Hessenstein
+          - wo man auch sehr lecker essen gehen kann. 
+          Wir sind unten im Untergeschoss des Turms und freuen uns immer wieder aufs Neue an einem so schönen Ort unseren Muza-Store zu haben.
           Bei Sonnenschein fällt oft ein sehr schönes Licht hinein, das durch die Fenster gebrochen wird.
         </p>
         <p>Unsere Produktauswahl ändert sich regelmäßig mit neuen Produkte, auch je nach Verfügbarkeit von unseren Vintage Gegenständen.</p>
