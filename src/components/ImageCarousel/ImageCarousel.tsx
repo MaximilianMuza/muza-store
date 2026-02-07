@@ -4,7 +4,8 @@ export default function ImageCarousel() {
 
     return (
         <div className="image-carousel-container">
-            <div className="image-container">
+            <div className="container">
+                <div className="image-container">
                 <div className="image-box">
                     <h3>Möbel & Lampen</h3>
                     <img className="image" src={require('../../assets/images/1e5224c0-01f7-4dfe-b993-83f3dc8c4162.JPG')} alt="Image3" />
@@ -22,6 +23,7 @@ export default function ImageCarousel() {
                     <img className="image" src={require('../../assets/images/PHOTO-2025-11-08-18-41-26.jpg')} alt="Image3" />
                 </div>
             </div>
+        </div>
         </div>
     )
 }

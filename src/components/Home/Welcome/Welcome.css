@@ -1,5 +1,5 @@
 .intro {
-    font-size: 25px;
+    font-size: 1.1rem;
 }
 
 .box {
@@ -8,8 +8,18 @@
 }
 
 .welcome-image {
-    width: 450px;
+    width: 100%;
+    max-width: 450px;
     height: auto;
     background-color: #f8f8f8;
     border-radius: 6px;
+}
+
+@media (max-width: 800px) {
+    .box { max-width: 100%; }
+    .welcome-image { max-width: 360px; }
+}
+
+@media (max-width: 480px) {
+    .welcome-image { max-width: 280px; }
 }

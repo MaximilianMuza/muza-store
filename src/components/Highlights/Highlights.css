@@ -1,0 +1,21 @@
+/* Highlights section styling */
+.section h2 {
+  margin: 0 0 8px 0;
+  text-align: center;
+}
+
+.section p {
+  margin: 0 0 18px 0;
+  text-align: center;
+  max-width: 700px;
+}
+
+.highlights-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 600px) {
+  .section p { font-size: 0.95rem; }
+}

@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Make images and embedded media responsive by default */
+img, picture, svg, video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Utility: allow horizontal flex boxes to wrap on small screens */
+.horizontal-flex { flex-wrap: wrap; }
