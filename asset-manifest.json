@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/muza-store/static/css/main.02f12e9c.css",
+    "main.js": "/muza-store/static/js/main.d75a4861.js",
+    "static/js/453.12f4cf6f.chunk.js": "/muza-store/static/js/453.12f4cf6f.chunk.js",
+    "static/media/1e5224c0-01f7-4dfe-b993-83f3dc8c4162.JPG": "/muza-store/static/media/1e5224c0-01f7-4dfe-b993-83f3dc8c4162.5cd990d6e3538d628881.JPG",
+    "static/media/e450988c-8899-40bd-a92f-1dd09314eece.JPG": "/muza-store/static/media/e450988c-8899-40bd-a92f-1dd09314eece.5f7f71a53a5fd2c21ff5.JPG",
+    "static/media/81d35f11-c8e6-4266-b954-82336bf3b51c.JPG": "/muza-store/static/media/81d35f11-c8e6-4266-b954-82336bf3b51c.58e71522a3e9e9bf1ae2.JPG",
+    "static/media/e23a2a0c-3266-4a60-a088-b9d9ec21d8b6.JPG": "/muza-store/static/media/e23a2a0c-3266-4a60-a088-b9d9ec21d8b6.8a43c10201fac3a4d1e5.JPG",
+    "static/media/PHOTO-2025-11-08-18-41-26.jpg": "/muza-store/static/media/PHOTO-2025-11-08-18-41-26.033ec24d3437e1c5d973.jpg",
+    "static/media/ca8d3bcf-52eb-4df2-a338-d243d7a0214d.JPG": "/muza-store/static/media/ca8d3bcf-52eb-4df2-a338-d243d7a0214d.5f7e0dfb1683673a0199.JPG",
+    "static/media/0e1c0393-fd9e-4325-bc16-fb25c7d2cf65.JPG": "/muza-store/static/media/0e1c0393-fd9e-4325-bc16-fb25c7d2cf65.2fc66baeea30b1ca3ef9.JPG",
+    "static/media/e450988c-8899-40bd-a92f-1dd09314eecd.JPG": "/muza-store/static/media/e450988c-8899-40bd-a92f-1dd09314eecd.30243792c162ad7a1f55.JPG",
+    "static/media/702bf3e8-150d-45f0-89ef-ef27388470b8.JPG": "/muza-store/static/media/702bf3e8-150d-45f0-89ef-ef27388470b8.bae05966195c39aa0fc3.JPG",
+    "static/media/610d330c-f56a-4e1e-93ea-cf8150410610.JPG": "/muza-store/static/media/610d330c-f56a-4e1e-93ea-cf8150410610.6c1895c5b76db63202cb.JPG",
+    "static/media/45ac321e-84a2-4103-862c-217b913b58ac.JPG": "/muza-store/static/media/45ac321e-84a2-4103-862c-217b913b58ac.78e30788ff812cd86353.JPG",
+    "static/media/3fd55197-e46e-4557-a092-22b0682c6533.JPG": "/muza-store/static/media/3fd55197-e46e-4557-a092-22b0682c6533.0148d9c31993f0a8a011.JPG",
+    "static/media/Broske-2vRAW.otf": "/muza-store/static/media/Broske-2vRAW.5a89fd60b1881088b6de.otf",
+    "static/media/e16c7982-c11f-4235-8919-eb15f30eedd4.JPG": "/muza-store/static/media/e16c7982-c11f-4235-8919-eb15f30eedd4.24dd5be83a5d05811d78.JPG",
+    "static/media/d9b85104-8db2-4b0d-96f4-5584f7ed09a9.JPG": "/muza-store/static/media/d9b85104-8db2-4b0d-96f4-5584f7ed09a9.296cc0ab68795ed92f7e.JPG",
+    "static/media/BauhausRegular.ttf": "/muza-store/static/media/BauhausRegular.5bf74b8a714edb9a851d.ttf",
+    "static/media/turm_map.png": "/muza-store/static/media/turm_map.09116f3f25636f3b80c5.png",
+    "static/media/Aligra.otf": "/muza-store/static/media/Aligra.db2419a80df79f765860.otf",
+    "static/media/SunrayAuraRegular-yYonm.otf": "/muza-store/static/media/SunrayAuraRegular-yYonm.4c421341c1be23a344cf.otf",
+    "static/media/Daisya.otf": "/muza-store/static/media/Daisya.3b48e55383ec28c34219.otf",
+    "index.html": "/muza-store/index.html",
+    "main.02f12e9c.css.map": "/muza-store/static/css/main.02f12e9c.css.map",
+    "main.d75a4861.js.map": "/muza-store/static/js/main.d75a4861.js.map",
+    "453.12f4cf6f.chunk.js.map": "/muza-store/static/js/453.12f4cf6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f12e9c.css",
+    "static/js/main.d75a4861.js"
+  ]
+}
