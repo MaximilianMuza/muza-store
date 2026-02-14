@@ -1,14 +1,21 @@
+.where_section {
+  max-width: 1000px;
+  width: auto !important;
+  padding: 60px;
+}
+
 .anreise_container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     max-width: 1000px;
+    margin-top: 40px;
 }
 
 .anreise_map {
-    width: 600px;
-    height: 400px;
+    width: 40vw;
+    height: calc(40vw * (400 / 570));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,11 +24,49 @@
 }
 
 .anreise_image {
-    width: 550px;
-    height: 350px;
+    max-width: 90%;
+    max-height: 90%;
     border-radius: 6px;
 }
 
 .anreise_contents p, .anreise_image p {
     margin: 0;
+}
+
+@media (max-width: 600px) {
+    .where_section {
+        padding: 0px;
+    }
+
+    .anreise_container {
+        flex-direction: column;
+    }
+
+    .anreise_contents {
+        padding-left: 20px;
+    }
+
+    .anreise_map {
+        margin-top: 40px;
+        width: 100%;
+        aspect-ratio: 570 / 400;
+        height: 100%
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1000px) {
+    .where_section {
+        padding: 40px;
+    }
+
+    .anreise_container {
+        flex-direction: column;
+    }
+
+    .anreise_map {
+        margin-top: 40px;
+        width: 100%;
+        aspect-ratio: 570 / 400;
+        height: 100%
+    }
 }

@@ -2,7 +2,7 @@ import "./Where.css"
 
 export default function Where() {
   return (
-    <div className="section max-text-width">
+    <div className="section where_section">
         <h2>Unser Laden im Hessenstein Turm</h2>
         <p>Unser Laden ist im schönen Hessenstein Turm, nahe Gut Panker und direkt gegenüberliegend dem Forsthaus Hessenstein
           - wo man auch sehr lecker essen gehen kann! 

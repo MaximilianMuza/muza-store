@@ -26,3 +26,19 @@
     height: 500px;
     border-radius: 6px;
 }
+
+@media (max-width: 500px) {
+    /* .image-carousel-container {
+        gap: 20px;
+    } */
+
+    .image-container {
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .image {
+        width: 250px;
+        height: 357px;
+    }
+}

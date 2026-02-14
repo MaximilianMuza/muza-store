@@ -1,0 +1,6 @@
+.highlights {
+    @media (max-width: 500px) {
+        display: none;
+        visibility: hidden;
+    }
+}
