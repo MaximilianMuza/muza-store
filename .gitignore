@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 *.lock
+package-lock.json
 
 # C extensions
 *.so
