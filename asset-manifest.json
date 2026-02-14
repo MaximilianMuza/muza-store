@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/muza-store/static/css/main.02f12e9c.css",
-    "main.js": "/muza-store/static/js/main.84617de7.js",
+    "main.js": "/muza-store/static/js/main.06a2c3a5.js",
     "static/js/453.12f4cf6f.chunk.js": "/muza-store/static/js/453.12f4cf6f.chunk.js",
     "static/media/1e5224c0-01f7-4dfe-b993-83f3dc8c4162.JPG": "/muza-store/static/media/1e5224c0-01f7-4dfe-b993-83f3dc8c4162.5cd990d6e3538d628881.JPG",
     "static/media/e450988c-8899-40bd-a92f-1dd09314eece.JPG": "/muza-store/static/media/e450988c-8899-40bd-a92f-1dd09314eece.5f7f71a53a5fd2c21ff5.JPG",
@@ -25,11 +25,11 @@
     "static/media/Daisya.otf": "/muza-store/static/media/Daisya.3b48e55383ec28c34219.otf",
     "index.html": "/muza-store/index.html",
     "main.02f12e9c.css.map": "/muza-store/static/css/main.02f12e9c.css.map",
-    "main.84617de7.js.map": "/muza-store/static/js/main.84617de7.js.map",
+    "main.06a2c3a5.js.map": "/muza-store/static/js/main.06a2c3a5.js.map",
     "453.12f4cf6f.chunk.js.map": "/muza-store/static/js/453.12f4cf6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02f12e9c.css",
-    "static/js/main.84617de7.js"
+    "static/js/main.06a2c3a5.js"
   ]
 }
